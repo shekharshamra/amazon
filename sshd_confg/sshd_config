@@ -33,7 +33,7 @@ SyslogFacility AUTHPRIV
 #LogLevel INFO
 
 # Authentication:
-
+@fdf
 #LoginGraceTime 2m
 PermitRootLogin no
 #StrictModes yes
